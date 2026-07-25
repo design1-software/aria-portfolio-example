@@ -91,13 +91,13 @@ Contained identity first, eradicated both sides, reported to executives.
 
 ## How a lab earns its place here
 
-Every case study passed a four-layer evidence pipeline:
+Every case study went through a four-layer evidence pipeline — and a human instructor's approval (layer 3) is what admits it:
 
-| | Layer | What it catches |
+| | Layer | What it does |
 |---|---|---|
 | 1️⃣ | **Deterministic checks** | Empty, too-short, and placeholder submissions — rejected automatically. |
-| 2️⃣ | **AI rubric grading** | Each required-evidence item scored against the lab's own checklist: satisfied yes/no, one-line reason, proving excerpt. |
-| 3️⃣ | **Instructor review** | A human reviews the evidence, the rubric results, and the student's work. Only approved labs appear here. |
+| 2️⃣ | **AI rubric grading** *(advisory)* | Each required-evidence item is scored against the lab's own checklist — satisfied yes/no, reason, proving excerpt — as a second opinion for the instructor. It informs the review; it does not decide. |
+| 3️⃣ | **Instructor review** | A human reviews the evidence, the rubric results, and the student's work, and approves or returns it. Only instructor-approved labs appear here — this is the gate. |
 | 4️⃣ | **Sanitization** | Secrets and infrastructure identifiers redacted before export. What remains is real work, safe to share. |
 
 > [!IMPORTANT]
